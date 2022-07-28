@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>Welcome to my World, I'm Ivan!
+  <h1>Welcome to my profile, I'm Ivan!
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
   </h1>
   <p>
-    I am Front-end Web developer from Russia. I am fond of web programming, politics, economics. Programming in JavaScript, learning TypeScript. I am developing my <a href="https://github.com/joseffie/Gulp-Settings">Gulp build</a>, constantly improving it. In my spare time I study Czech and play games. 
+    <strong>A passionate front-end developer & freelancer from Russia</strong>
   </p>
 </div>
 
